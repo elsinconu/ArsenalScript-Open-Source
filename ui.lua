@@ -100,16 +100,16 @@ local Esp = espTab:CreateToggle({
         _G.SendNotifications = true   
         _G.DefaultSettings = false   
         
-        _G.TeamCheck = false   
+        _G.TeamCheck = false  
         
-        _G.ESPVisible = true   
+        _G.ESPVisible = true
         _G.TextColor = Color3.fromRGB(255, 80, 10)   
         _G.TextSize = 14   
         _G.Center = true   
-        _G.Outline = true   
-        _G.OutlineColor = Color3.fromRGB(0, 0, 0)  
-        _G.TextTransparency = 0.7  
-        _G.TextFont = Drawing.Fonts.UI   
+        _G.Outline = true  
+        _G.OutlineColor = Color3.fromRGB(0, 0, 0)   
+        _G.TextTransparency = 0.7   
+        _G.TextFont = Drawing.Fonts.UI  
         
         _G.DisableKey = Enum.KeyCode.Q   
         
